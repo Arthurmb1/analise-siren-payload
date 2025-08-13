@@ -1,5 +1,4 @@
 # Payload SIREN 
-Análise de dados coletados em voo pelo payload embarcado em foguete experimental.
 
 O payload SIREN — Secretome Investigation in Rocket Environment — tem como objetivo investigar as condições térmicas, pressóricas e mecânicas experienciadas por uma carga biológica, lançadas embarcadas em um foguete experimental construido pelo Projeto Jupiter (USP), durante a competição da IREC 2025 (International Rocket Engineering Competition, Texas — EUA), com apogeu estimado de 3.000 metros.
 
