@@ -1,6 +1,6 @@
 # Payload SIREN 
 
-O payload SIREN — Secretome Investigation in Rocket Environment — tem como objetivo investigar as condições térmicas, pressóricas e mecânicas experienciadas por uma carga biológica, lançadas embarcadas em um foguete experimental construido pelo Projeto Jupiter (USP), durante a competição da IREC 2025 (International Rocket Engineering Competition, Texas — EUA), com apogeu estimado de 3.000 metros.
+O payload SIREN — Secretome Investigation in Rocket Environment — tem como objetivo investigar as condições térmicas, pressóricas e mecânicas experienciadas por uma carga biológica, embarcadas em um foguete experimental construido pelo Projeto Jupiter (USP), durante a competição da IREC 2025 (International Rocket Engineering Competition, Texas — EUA), com apogeu estimado de 3.000 metros.
 
 Dentro desse contexto, o Projeto Jupiter, vinculado à Universidade de São Paulo (USP), em parceria com a R-Crio, desenvolveu um payload biológico embarcado em um foguete experimental durante a competição IREC 2025.
 
